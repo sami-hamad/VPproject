@@ -1,5 +1,4 @@
-# VPproject
-Visual Programming (C#) Course Project
+# Visual Programming (C#) Course Project- VPproject 
 
 * ***Note: The program might not function correctly on your pc due to the use of a local database path***
 
