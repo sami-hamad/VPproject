@@ -29,7 +29,7 @@ To get started with IdiomaPro, simply download or clone the project files and op
     This project was built using C# and Visual Studio, with a focus on Windows Forms for the user interface. The data is stored in a SQLlite database.
 
 * ***Team Members***
-    This project was created by Sami Hamad, Moataz Ghassan, Ahmad Ibrahiem as part of the Visual Programming course at Princess Sumaya University for Technology.
+    This project was created by Sami Hamad, Moataz Ghassan, and Ahmad Ibrahiem as part of the Visual Programming course at Princess Sumaya University for Technology.
 
 * ***Acknowledgments***
     We would like to thank our instructor Dr. Mohammed Ababneh for providing us with guidance and support throughout the project. We would also like to thank our classmates for their feedback and suggestions.
